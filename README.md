@@ -1,2 +1,2 @@
-# Web-Design-Challenge
-A visualization dashboard website using visualizations we've created in a past assignment.
+# Web-Visualization-Dashboard
+https://fasahathsyeda.github.io/Web-Design-Challenge/

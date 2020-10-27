@@ -34,7 +34,7 @@ body {
     color: #213159 !important;
   }
   .dropdown .dropdown-menu .dropdown-item:active, .dropdown .dropdown-menu .dropdown-item:hover {
-    background-color: #f04b4c !important;
+    background-color: #d2f04b !important;
   }
   
   .nav-link:hover {
@@ -42,7 +42,7 @@ body {
    }
   
   .navbar-brand:hover {
-  color: #f04b4c !important;
+  color: #f0d74b !important;
   }
   
   a {
@@ -75,7 +75,7 @@ body {
   
   /* Paragraph */
   p {
-  color: gray;
+  color: grey;
   font-family: Arial, Helvetica, sans-serif;
   font-size: 15px;
   }
